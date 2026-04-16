@@ -12,8 +12,7 @@
 <!-- ─── About me ────────────────────────────────── -->
 <h3 align="center">About Me</h3>
 <p align="center">
-  🎓 B4 at Science Tokyo<br />
-  🔬 Researching Machine Learning
+  🎓 4th-year undergraduate at Institute of Science Tokyo
 </p>
 
 <!-- ─── Typing animation ────────────────────────── -->
