@@ -9,16 +9,22 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" height="32" alt="waving hand" />
 </h1>
 
-## 👨‍💻 About Me
-
-🎓 4th-year undergraduate at Institute of Science Tokyo
-
 <!-- ─── Typing animation ────────────────────────── -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7A8C4&center=true&vCenter=true&width=600&lines=Interested+in+Machine+Learning;Especially+Deep+Learning;Also+Operations+Research" alt="Typing SVG" />
   </a>
 </p>
+## 👨‍💻 About Me
+
+- 🎓 **Education**  
+  4th-year undergraduate, Institute of Science Tokyo
+- 🔬 **Focus**  
+  Machine Learning research
+- 🎯 **Interests**  
+  Deep Learning, Operations Research
+- 🏆 **Competing on**  
+  Kaggle / AtCoder
 
 <!-- ─── Kaggle / AtCoder badges ─────────────────── -->
 <p align="center">
@@ -38,6 +44,10 @@
 <!-- ─── Top Languages ───────────────────────────── -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basho5&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=basho5&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- ─── Wave footer ─────────────────────────────── -->
