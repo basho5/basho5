@@ -9,11 +9,9 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" height="32" alt="waving hand" />
 </h1>
 
-<!-- ─── About me ────────────────────────────────── -->
-<h3 align="center">About Me</h3>
-<p align="center">
-  🎓 4th-year undergraduate at Institute of Science Tokyo
-</p>
+## 👨‍💻 About Me
+
+🎓 4th-year undergraduate at Institute of Science Tokyo
 
 <!-- ─── Typing animation ────────────────────────── -->
 <p align="center">
