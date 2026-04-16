@@ -47,9 +47,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basho5&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=basho5&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basho5&theme=tokyonight" />
+</div>
 
 <!-- ─── Wave footer ─────────────────────────────── -->
 <p align="center">
