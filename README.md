@@ -37,9 +37,15 @@
   </a>
 </p>
 
-<!-- ─── Skill icons ─────────────────────────────── -->
+<!-- ─── Skills ─────────────────────────────────── -->
+<p align="center"><b>Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,vscode,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,lua" />
+</p>
+
+<p align="center"><b>Development Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neovim,vscode,git,github,docker" />
 </p>
 
 <!-- ─── Top Languages ───────────────────────────── -->
@@ -48,7 +54,7 @@
 </p>
 
 <div align="center">
-  <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basho5&theme=tokyonight" />
+  <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basho5&theme=radical" />
 </div>
 
 <!-- ─── Wave footer ─────────────────────────────── -->
