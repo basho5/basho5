@@ -1,6 +1,19 @@
-<!-- ─── Wave header ─────────────────────────────── -->
+<!-- ─── Wave header (decorative) ────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there%2C%20I'm%20basho5&fontSize=50&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&animation=fadeIn" />
+</p>
+
+<!-- ─── Title with waving hand ──────────────────── -->
+<h1 align="center">
+  Hi there, I'm basho5
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32" height="32" alt="waving hand" />
+</h1>
+
+<!-- ─── About me ────────────────────────────────── -->
+<h3 align="center">About Me</h3>
+<p align="center">
+  🎓 B4 at Science Tokyo<br />
+  🔬 Researching Machine Learning
 </p>
 
 <!-- ─── Typing animation ────────────────────────── -->
@@ -28,11 +41,6 @@
 <!-- ─── Top Languages ───────────────────────────── -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basho5&layout=compact&theme=radical" />
-</p>
-
-<!-- ─── Trophies ────────────────────────────────── -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basho5&theme=radical&no-frame=true&column=7" />
 </p>
 
 <!-- ─── Wave footer ─────────────────────────────── -->
