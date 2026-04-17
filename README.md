@@ -25,7 +25,8 @@
 - 🎯 **Interests**  
   Deep Learning, Operations Research
 - 🏆 **Competing on**  
-  Kaggle Competitions Expert (2 solo silver medals) / AtCoder
+  Kaggle Competitions Expert (2 solo silver medals)  
+  AtCoder (Cyan rating)
 
 <!-- ─── Kaggle / AtCoder badges ─────────────────── -->
 <p align="center">
