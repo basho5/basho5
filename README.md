@@ -12,7 +12,7 @@
 <!-- ─── Typing animation ────────────────────────── -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7A8C4&center=true&vCenter=true&width=600&lines=Interested+in+Reasoning+LLMs;Especially+Test-Time+Scaling;and+Inference+Efficiency" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7A8C4&center=true&vCenter=true&width=600&lines=Reasoning+with+Large+Language+Models;Test-Time+Scaling;Token-Efficient+Inference" alt="Typing SVG" />
   </a>
 </p>
 
