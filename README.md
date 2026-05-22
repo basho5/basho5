@@ -12,7 +12,7 @@
 <!-- ─── Typing animation ────────────────────────── -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7A8C4&center=true&vCenter=true&width=600&lines=Interested+in+Machine+Learning;Especially+Deep+Learning;Also+Operations+Research" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=F7A8C4&center=true&vCenter=true&width=600&lines=Interested+in+Reasoning+LLMs;Especially+Test-Time+Scaling;and+Inference+Efficiency" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,12 +21,12 @@
 - 🎓 **Education**  
   4th-year undergraduate, Institute of Science Tokyo
 - 🔬 **Focus**  
-  Machine Learning research
+  Reasoning with large language models
 - 🎯 **Interests**  
-  Deep Learning, Operations Research
-- 🏆 **Competing on**  
-  Kaggle Competitions Expert (2 solo silver medals)  
-  AtCoder (Cyan rating)
+  Test-Time Scaling, inference efficiency, token-efficient reasoning
+- 🏆 **Competitions**  
+  Kaggle Competitions Expert (2 solo silver, CV & NLP)  
+  AtCoder Cyan (1565, top ~5%)
 
 <!-- ─── Kaggle / AtCoder badges ─────────────────── -->
 <p align="center">
