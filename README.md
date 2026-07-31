@@ -25,7 +25,7 @@
 - 🎯 **Interests**  
   Test-Time Scaling, inference efficiency, token-efficient reasoning
 - 🏆 **Competitions**  
-  Kaggle Competitions Expert (2 solo silver, CV & NLP)  
+  Kaggle Competitions Expert (2 solo silver & 1 solo bronze medals, CV & NLP)  
   AtCoder Cyan (1565, top ~5%)
 
 <!-- ─── Kaggle / AtCoder badges ─────────────────── -->
